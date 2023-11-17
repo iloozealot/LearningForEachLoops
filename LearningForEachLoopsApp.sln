@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningForEachLoops", "LearningForEachLoops\LearningForEachLoops.csproj", "{8EEA904C-F3B1-40D5-B507-E783AF3D9E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EEA904C-F3B1-40D5-B507-E783AF3D9E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEA904C-F3B1-40D5-B507-E783AF3D9E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEA904C-F3B1-40D5-B507-E783AF3D9E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEA904C-F3B1-40D5-B507-E783AF3D9E05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {133256FE-D5D7-45E4-B02D-09AD407685C3}
+	EndGlobalSection
+EndGlobal
